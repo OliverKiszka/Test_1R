@@ -1,0 +1,17 @@
+C:\Users\ASRock\IdeaProjects\Test_1R\src\main\java\pl\kurs\task1\app\Task1Runner.java
+C:\Users\ASRock\IdeaProjects\Test_1R\src\main\java\pl\kurs\task1\customserializers\ObjectMapperHolder.java
+C:\Users\ASRock\IdeaProjects\Test_1R\src\main\java\pl\kurs\task1\customserializers\ShapeDeserializer.java
+C:\Users\ASRock\IdeaProjects\Test_1R\src\main\java\pl\kurs\task1\customserializers\ShapeSerializer.java
+C:\Users\ASRock\IdeaProjects\Test_1R\src\main\java\pl\kurs\task1\exceptions\InvalidShapeParameterException.java
+C:\Users\ASRock\IdeaProjects\Test_1R\src\main\java\pl\kurs\task1\exceptions\NoShapeFoundException.java
+C:\Users\ASRock\IdeaProjects\Test_1R\src\main\java\pl\kurs\task1\models\Circle.java
+C:\Users\ASRock\IdeaProjects\Test_1R\src\main\java\pl\kurs\task1\models\Rectangle.java
+C:\Users\ASRock\IdeaProjects\Test_1R\src\main\java\pl\kurs\task1\models\Shape.java
+C:\Users\ASRock\IdeaProjects\Test_1R\src\main\java\pl\kurs\task1\models\Square.java
+C:\Users\ASRock\IdeaProjects\Test_1R\src\main\java\pl\kurs\task1\services\ShapeFactory.java
+C:\Users\ASRock\IdeaProjects\Test_1R\src\main\java\pl\kurs\task1\services\ShapeService.java
+C:\Users\ASRock\IdeaProjects\Test_1R\src\main\java\pl\kurs\task2\config\AppConfig.java
+C:\Users\ASRock\IdeaProjects\Test_1R\src\main\java\pl\kurs\task2\models\ExchangeRate.java
+C:\Users\ASRock\IdeaProjects\Test_1R\src\main\java\pl\kurs\task2\services\CurrencyService.java
+C:\Users\ASRock\IdeaProjects\Test_1R\src\main\java\pl\kurs\task2\services\ExchangeRateDownloader.java
+C:\Users\ASRock\IdeaProjects\Test_1R\src\main\java\pl\kurs\task2\services\IExchangeRateDownloader.java

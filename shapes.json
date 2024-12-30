@@ -1,0 +1,15 @@
+[
+  {
+    "type": "square",
+    "side": 10.0
+  },
+  {
+    "type": "circle",
+    "radius": 5.0
+  },
+  {
+    "type": "rectangle",
+    "width": 4.0,
+    "height": 6.0
+  }
+]
